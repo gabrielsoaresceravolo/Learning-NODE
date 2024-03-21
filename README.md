@@ -4,7 +4,7 @@
 
 <hr>
 
-## Para iniciar o projeto
+## Para iniciar o projeto do express
 
-```--{Node app.js}--```
-```--{npx nodemon app.js -y}--``` Para atualizar automaticamente
+```--{Node app.js}--```             Desse jeito ele apenas inicia o projeto
+```--{npx nodemon app.js -y}--```   Desse jeito ele inicia e atualizar automaticamente o projeto toda vez que é modificado
